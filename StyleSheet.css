@@ -1,0 +1,133 @@
+
+img{
+    /* background-color: brown; */
+   
+    height: 80px;
+    background-repeat: no-repeat;
+    float: left;
+    
+
+}
+#menu{
+    
+    width: auto;
+}
+.listmenu{
+   
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+ 
+        border:1px solid #000;
+}
+  
+.limenu{
+    float: left;
+    margin-left: 120px;
+    margin-right: 50px;
+    border: 2px;
+    list-style: none;
+}
+table,td{
+    border-style: dashed;
+   
+    /* border-radius: 20px;
+    margin-top: 150px;
+    position: relative; 
+    border-width: 2px;
+    border-color:blue ; */
+    border: 1px solid grey;
+
+}
+th{
+    color: white;
+    background-color: red;
+}
+.college{
+    width: auto;
+	height: 100px;
+	top:20px;
+	
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.department{
+    width: auto;
+    margin-left: 0px;
+    float: left;
+    border-right: 1px solid grey;
+    padding-right: 80px; 
+    height: 400px;
+}
+
+.lidept{
+    list-style: none;
+}
+.mainbody{
+padding-top: 50px;
+}
+.login{
+    width: 400px;
+   
+  margin-left: 400px;
+   overflow: auto;
+   display: none;
+   align-content: center;
+   
+}
+.password{
+    margin-right: 100px;
+    margin-top: 10px;
+  
+   
+}
+.passlab{
+  margin-right: 300px;
+}
+.submit{
+    float: left;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.reset{
+    margin-top: 10px;
+}
+.username{
+    margin-right: 100px;
+}
+.heading{
+    margin-right: 100px;
+}
+/* #one{
+    color: antiquewhite;
+}
+#two{
+    color: azure;
+}
+#three{
+    color: beige;
+}
+
+#four{
+    color: blueviolet;
+}
+#five{
+    color:blueviolet;
+}
+#six{
+    color:darkcyan;
+}
+#seven{
+    color:dimgrey;
+}
+#eight{
+    color:gold;
+}
+#nine{
+    color: burlywood;
+}
+#ten{
+    color: darkorchid;
+} */
